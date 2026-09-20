@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "build_id": "sha256:4ce87e8dc410b26402d227e22b046512733de551c892a4dd5e22cfd18b58f3bf",
+  "ksor_version": "0.0.60",
+  "okf": {
+    "version": "0.2",
+    "commit": "ad30107c31c06aec8a7d5636e0d1058118604e6f",
+    "spec_sha256": "26aa5da029278939f914e578107242d9607d4f2dc5fe153272b82f9ed1030101"
+  },
+  "source_commit": "7b5cd0ce7a0afd40254a692a218b8d186c25c759",
+  "dirty": true,
+  "as_of": "2026-09-20T22:29:46.933Z",
+  "drafts": "hidden",
+  "instance_sha256": "9940245154a8519b3c04002757f654ecc44c2b7fecccb5ecbf1958270cd062d2",
+  "policy_sha256": "384f6c196502e5ac26ab53e88905b1da39e99c488ab32c8ebe9f05a532f06707",
+  "people_sha256": "01755a5e3cf0b00cd93a6844a765547fff8c5e22e378098193e13044a9bb4721",
+  "ledger_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "ledger_entries": [],
+  "audiences": {
+    "registry": [],
+    "viewers": {
+      "public": [
+        "public"
+      ]
+    }
+  },
+  "documents": [
+    {
+      "path": "governance-ladder.md",
+      "sha256": "c0dc26f31fcbb19128db8bd3e8aca068439814a784e889bf5c35827fc43479a0",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "policy/refund.md",
+      "sha256": "5700e88c9780a19792bdf6390f4e8d5827b4b92e06af0fab4c3369fdee608ae8",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "surfaces/for-agents.md",
+      "sha256": "1ab26915897ba587518a50fa811b54898acbd09967f76f9ccbf684e58256a49b",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "surfaces/for-people.md",
+      "sha256": "3cb26786225dedca5d871f9bb3dbc5a0913c7fec870c34aeae52862b31fc56ae",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "surfaces/overview.md",
+      "sha256": "d35e5c61df23ffc83d2542b6501fde1b989c3e23b846273d7f969af2e6edd4c2",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    },
+    {
+      "path": "what-is-a-ksor.md",
+      "sha256": "31b9e53cf796293f140df979ea7f0372af32d850267c761f1733a62d6e0e6d51",
+      "status": "stable",
+      "audience": [
+        "public"
+      ],
+      "admitted": [
+        "public"
+      ]
+    }
+  ],
+  "companions": [
+    {
+      "path": "what-is-a-ksor.summary.md",
+      "sha256": "6e28d107e4903f124ff5eb7b82ca8edbf63c4ba6a20ccd2efdf07a72a2481df5"
+    }
+  ],
+  "assets": [],
+  "indexes": [
+    {
+      "path": "index.md",
+      "sha256": "efba6029bf116a563d10760b772a0c054bda2ff13cccfb52802229143489a520"
+    },
+    {
+      "path": "policy/index.md",
+      "sha256": "2951e84c71d51c745356b91ed25e12761135ed9692373654e871d0592638d95a"
+    },
+    {
+      "path": "surfaces/index.md",
+      "sha256": "e82913fbd744929824ec494cd87d50d1451856df0d7d321d51df2b7be773314c"
+    }
+  ],
+  "bundles": [
+    {
+      "viewer": "public",
+      "sha256": "36af43b563de2180b52414d4383d96389c9f3d790f10b799a2762e8ea52cf656",
+      "files": 10
+    }
+  ]
+}
